@@ -39,7 +39,7 @@ is benefitting financially.
 
 However this system only works when 
 the users are "sleeping" or "unaware" 
-that the date the corpos collect
+that the data the corpos collect
 is used to model and project you.
 
 the moment you become aware, 
